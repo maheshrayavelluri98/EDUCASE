@@ -59,7 +59,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Jagadeeshrayavelluri97/educase-new.git
+git clone https://github.com/maheshrayavelluri98/EDUCASE.git
 
 to install Dependencies : npm install
 to run Project : npm run dev
